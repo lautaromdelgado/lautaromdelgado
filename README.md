@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando con **React, Go, MySQL y Node.js.**
+- 🔭 Actualmente estoy trabajando con **React, Go y MySQL.**
 
 - 🌱 Estoy profundizando en la construcción de aplicaciones **Backend robustas y escalables** utilizando **Golang**, **Echo** y **GORM.**
 
