@@ -24,7 +24,7 @@
 
 - ☁️ Me interesa mucho el mundo del desarrollo **Backend** y la integración con **bases de datos.**
 
-- 💬 Puedes consultarme sobre **Golang**, **MySQL**, **React**, **Node.js** y **buenas prácticas de desarrollo Backend.**
+- 💬 Puedes consultarme sobre **Golang**, **MySQL**, **React** y **buenas prácticas de desarrollo Backend.**
 
 - 📫 Contáctame en **lautaormdelgado@gmail.com**.
 
