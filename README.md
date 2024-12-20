@@ -1,7 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/tu-usuario" target="blank">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://github.com/tu-usuario" target="blank">
 Lautaro Delgado</a></h1>
 <h3 align="center">A passionate Backend Developer specializing in <b>Golang</b> and <b>MySQL</b> with React knowledge, based in Argentina 🇦🇷 &#127470;&#127475;</h3>
 
