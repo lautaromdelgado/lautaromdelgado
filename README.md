@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://github.com/tu-usuario" target="blank">
 Lautaro Delgado</a></h1>
-<h3 align="center">A passionate Backend Developer specializing in <b>Golang</b> and <b>MySQL</b> with React knowledge, based in Argentina 🇦🇷 &#127470;&#127475;</h3>
+<h3 align="center">A passionate Backend Developer specializing in <b>Golang</b> and <b>MySQL</b> with React knowledge, based in Argentina 🇦🇷</h3>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/lautaromdelgado/" target="blank">
