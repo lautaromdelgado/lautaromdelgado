@@ -1,9 +1,9 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://github.com/tu-usuario" target="blank">
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy <a href="https://github.com/tu-usuario" target="blank">
 Lautaro Delgado</a></h1>
-<h3 align="center">A passionate Backend Developer specializing in <b>Golang</b> and <b>MySQL</b> with React knowledge, based in Argentina 🇦🇷</h3>
+<h3 align="center">Un apasionado desarrollador backend especializado en <b>Golang</b> con conocimiento en React</h3>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/lautaromdelgado/" target="blank">
@@ -15,21 +15,14 @@ Lautaro Delgado</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on my **personal backend project** using <b>Echo Framework</b> and <b>GORM</b>.
+¡Bienvenido a mi perfil de GitHub!
 
-- 💼 I’ve completed an internship at <a href="https://ipsistemas.com.ar/" target="blank">IP Sistemas</a> focusing on CRMs and SaaS solutions.
+## Sobre mí
 
-- 🌱 I’m currently learning **advanced Golang** and improving my database optimization skills.
-
-- 🤝 I’m available for **freelancing opportunities**.
-
-- 💬 Ask me about **Golang, MySQL, and React**.
-
-- 📫 How to reach me: **lautaromdelgado@gmail.com**
-
-- 📄 Know about my experiences: <a href="https://github.com/lautaromdelgado" target="blank">GitHub Resume</a>
-<br/>
-
+- 22 años.
+- Santa Fe, Argentina.
+- lautaromdelgado@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/lautaromdelgado/)
 
 ### 🛠 &nbsp;Tech Stack
 
