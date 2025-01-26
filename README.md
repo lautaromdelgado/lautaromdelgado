@@ -8,7 +8,7 @@ Lautaro Delgado</a></h1>
 ## Sobre mí
 
 - 22 años.
-- Santa Fe, Argentina.
+- Avellaneda, Santa Fe, Argentina.
 - lautaromdelgado@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/lautaromdelgado/)
 
