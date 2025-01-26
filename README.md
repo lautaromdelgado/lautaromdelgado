@@ -5,18 +5,6 @@
 Lautaro Delgado</a></h1>
 <h3 align="center">Un apasionado desarrollador backend especializado en <b>Golang</b> con conocimiento en React</h3>
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/lautaromdelgado/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/lautaromdelgado?logo=linkedin&style=for-the-badge" alt="Linkedin Profile" />
-  </a> 
-</p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-¡Bienvenido a mi perfil de GitHub!
-
 ## Sobre mí
 
 - 22 años.
