@@ -1,5 +1,12 @@
 # 💫 About Me:
-Desarrollador backend especializado en golang<br>Abierto a colaborar o trabajar en equipos con una comunicación efectiva<br>me encanta todo lo relacionado a la arquitectura de software y el flujo de datos<br>puedes preguntarme cualquier cosa<br>abierto a escuchar ofertas de proyectos
+
+🚀 Desarrollador **Backend** especializado en **Golang**  
+💬 Apasionado por la **arquitectura de software**, el **flujo de datos** y el diseño limpio de sistemas  
+🤝 Me encanta colaborar en equipos con buena comunicación y compartir conocimientos  
+🛠 Siempre estoy aprendiendo y explorando nuevas herramientas y tecnologías  
+📬 Abierto a responder dudas, charlar sobre código o sumarme a nuevos desafíos
+
+> 🎯 Mi enfoque está en crear soluciones escalables, mantenibles y eficientes
 
 
 ## 🌐 Socials:
