@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hola, soy Lautaro Delgado:
 
 🚀 Desarrollador **Backend** especializado en **Golang**  
 💬 Apasionado por la **arquitectura de software**, el **flujo de datos** y el diseño limpio de sistemas  
